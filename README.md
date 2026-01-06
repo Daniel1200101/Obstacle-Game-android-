@@ -71,7 +71,8 @@ Save your legacy after a hard-fought game.
 A dual-fragment activity that combines data with physical geography.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3c5bc798-83b0-4cca-b9b3-abc3c34c62e7" width="500" alt="Top Scores and Map">
+  <img src="https://github.com/user-attachments/assets/eacba370-5173-44a0-b1a9-178ef3b99af8"
+width="500" alt="Top Scores and Map">
 </p>
 
 * **🏆 Player Scores Fragment:** A scrollable "Hall of Fame" of the highest achievers.
