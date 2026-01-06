@@ -2,14 +2,27 @@ Game Description:
 This is an obstacle game inspired by the Tom and Jerry series.
 In the game, Jerry must avoid collisions with Tom while collecting as many pieces of cheese as possible along the way.
 
-App Description:
-The app consists of five activities:
+## 📱 App Features
 
-### 1️⃣ Menu Activity:![1767728047276](https://github.com/user-attachments/assets/f02bfb06-503a-46e7-a6a0-208e5ebedad2)
-Includes three buttons:
-Start: Begins the game.
-Settings: Navigates to the settings activity, where users can adjust the game settings.
-Top Scores: Navigates to the top scores activity, displaying the highest scores and their corresponding locations on a map.
+### 1️⃣ Main Menu Activity
+The central hub of the application, featuring a clean and intuitive user interface to guide users through the multi-layered experience.
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/f02bfb06-503a-46e7-a6a0-208e5ebedad2" width="250" alt="Main Menu Screenshot">
+</p>
+
+#### Key Navigation:
+* **🕹️ Start:** Begins the core experience/security game.
+* **⚙️ Settings:** Opens the configuration panel to adjust game parameters and system preferences.
+* **🏆 Top Scores:** Displays a leaderboard of high scores, including a **Map Integration** that shows the physical locations where top scores were recorded.
+
+---
+
+### 2️⃣ Multi-Layered Security (Ideas)
+This project demonstrates a tiered approach to device access:
+* **Layer 1:** Initial biometric/PIN entry.
+* **Layer 2:** Device Fingerprinting (Hardware/Software validation).
+* **Layer 3:** Behavioral check or location-based verification.
 
 Settings Activity:
 Offers game configuration options:
