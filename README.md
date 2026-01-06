@@ -1,7 +1,8 @@
 ## 🎮 Game Description:
 This is an obstacle game inspired by the Tom and Jerry series.
 In the game, Jerry must avoid collisions with Tom while collecting as many pieces of cheese as possible along the way.
----
+
+
 ## 📱 App Features
 
 ### 1️⃣ Main Menu Activity
