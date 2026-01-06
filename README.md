@@ -41,8 +41,8 @@ The core gameplay screen where the player controls Jerry to survive, collect ite
 
 #### 🎮 Game Interface
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/34a1b240-0af1-4bff-968f-02d6347f9a0d
-" width="250" alt="Main Gameplay">
+  <img src="https://github.com/user-attachments/assets/34a1b240-0af1-4bff-968f-02d6347f9a0d"
+width="250" alt="Main Gameplay">
 </p>
 
 * **Grid Objects:** A dynamic grid featuring **Tom** (Obstacles), **Cheese** (Score Boosts), and **Red Cheese** (Health/Life).
