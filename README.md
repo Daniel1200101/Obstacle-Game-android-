@@ -52,8 +52,8 @@ width="250" alt="Main Gameplay">
 
 #### 🧀 Items & Hazards
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/a9fd0e54-fb1a-4b29-b972-30e5108f4450
-" width="250" alt="Game Items">
+  <img src="https://github.com/user-attachments/assets/a9fd0e54-fb1a-4b29-b972-30e5108f4450"
+width="250" alt="Game Items">
 </p>
 
 * **Obstacles (Tom):** Avoid these at all costs! 
@@ -62,8 +62,8 @@ width="250" alt="Main Gameplay">
 
 #### 🙀 Collision State
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/8e17320e-d596-41a4-a3ff-e687c8de7311)
-" width="250" alt="Collision Feedback">
+  <img src="https://github.com/user-attachments/assets/8e17320e-d596-41a4-a3ff-e687c8de7311"
+ width="250" alt="Collision Feedback">
 </p>
 
 * **Feedback:** When an obstacle hits Jerry, a **"MEOW"** alert is triggered + cat meow sound, and a life is deducted from the heart array.
