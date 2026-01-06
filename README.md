@@ -10,13 +10,15 @@
 
 ### 🎯 Game Objective
 **Survive the chase and climb the leaderboard!**
+</div>
+
 * **Avoid Tom:** Dodge the obstacles to keep your lives intact.
 * **Collect Cheese:** Grab yellow cheese to boost your score.
 * **Collect Red Cheese:** Find rare red cheese to restore your health.
 
 ---
 
-</div>
+
 
 ## 📱 App Walkthrough
 
