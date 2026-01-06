@@ -16,24 +16,24 @@ The central hub of the application, featuring a clean and intuitive user interfa
 * **⚙️ Settings:** Opens the configuration panel to adjust game parameters and system preferences.
 * **🏆 Top Scores:** Displays a leaderboard of high scores, including a **Map Integration** that shows the physical locations where top scores were recorded.
 
----
+### 2️⃣ Settings Activity
+The configuration panel allows users to customize their experience by toggling control schemes and adjusting the difficulty level of the security challenge.
 
-### 2️⃣ Multi-Layered Security (Ideas)
-This project demonstrates a tiered approach to device access:
-* **Layer 1:** Initial biometric/PIN entry.
-* **Layer 2:** Device Fingerprinting (Hardware/Software validation).
-* **Layer 3:** Behavioral check or location-based verification.
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/621767c0-3681-4212-b42c-0cbab9aa1fe8"
+   width="250" alt="Settings Activity Screenshot">
+</p>
 
-Settings Activity:
-Offers game configuration options:
-Movement Controls:
-Right Switch: Jerry moves when pressing buttons on the screen.
-Left Switch: Jerry moves based on the phone’s tilt movements.
-Game Difficulty:
-Easy: Obstacles move at a slow speed.
-Medium: Obstacles move at a moderate speed.
-Hard: Obstacles move at a high speed.
+#### 🎮 Movement Controls
+Users can choose between two distinct input methods for navigating "Jerry":
+* **Buttons (Right Switch):** Manual on-screen controls for precise movement.
+* **Tilt (Left Switch):** Uses the phone's **Gyroscope/Accelerometer** to move based on device orientation.
 
+#### ⚡ Game Difficulty
+Adjusts the speed of incoming obstacles to test user reaction times:
+* **🟢 Easy:** Slow-moving obstacles (Ideal for testing basic layers).
+* **🟡 Medium:** Moderate speed for a balanced challenge.
+* **🔴 Hard:** High-speed obstacles for maximum difficulty.
 Main Activity:
 This is where the game is played and includes:
 Grid Objects: Obstacles (Tom), coins (cheese), and life (red cheese).
