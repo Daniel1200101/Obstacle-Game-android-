@@ -5,7 +5,7 @@ In the game, Jerry must avoid collisions with Tom while collecting as many piece
 App Description:
 The app consists of five activities:
 
-Menu Activity:
+### 1️⃣ Menu Activity:![1767728047276](https://github.com/user-attachments/assets/f02bfb06-503a-46e7-a6a0-208e5ebedad2)
 Includes three buttons:
 Start: Begins the game.
 Settings: Navigates to the settings activity, where users can adjust the game settings.
