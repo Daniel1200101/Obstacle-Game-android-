@@ -1,7 +1,7 @@
-Game Description:
+## 🎮 Game Description:
 This is an obstacle game inspired by the Tom and Jerry series.
 In the game, Jerry must avoid collisions with Tom while collecting as many pieces of cheese as possible along the way.
-
+---
 ## 📱 App Features
 
 ### 1️⃣ Main Menu Activity
@@ -15,7 +15,7 @@ The central hub of the application, featuring a clean and intuitive user interfa
 * **🕹️ Start:** Begins the core experience/obstacle game.
 * **⚙️ Settings:** Opens the configuration panel to adjust game parameters and system preferences.
 * **🏆 Top Scores:** Displays a leaderboard of high scores, including a **Map Integration** that shows the physical locations where top scores were recorded.
-
+---
 ### 2️⃣ Settings Activity
 The settings panel allows players to customize their gameplay experience, from how they control Jerry to the overall intensity of the game.
 
