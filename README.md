@@ -72,7 +72,7 @@ width="250" alt="Game Items">
 ### 4️⃣ Game Over & Score Submission
 When the game ends, players have the opportunity to save their legacy. 
 <p align="left">
-  <img src="1767728047196](https://github.com/user-attachments/assets/3065448f-ff12-47d8-98e6-b9c907c88e68"
+  <img src="https://github.com/user-attachments/assets/3065448f-ff12-47d8-98e6-b9c907c88e68"
 width="250" alt="Score Submission">
 </p>
 
@@ -84,7 +84,7 @@ width="250" alt="Score Submission">
 This activity provides a detailed look at the leaderboard using a dual-fragment layout, combining competitive data with geographic tracking.
 
 <p align="left">
-  <img src="1767728047241](https://github.com/user-attachments/assets/3c5bc798-83b0-4cca-b9b3-abc3c34c62e7"
+  <img src="https://github.com/user-attachments/assets/3c5bc798-83b0-4cca-b9b3-abc3c34c62e7"
 width="250" alt="Top Scores and Map">
 </p>
 
