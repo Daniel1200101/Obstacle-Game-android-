@@ -12,7 +12,7 @@ The central hub of the application, featuring a clean and intuitive user interfa
 </p>
 
 #### Key Navigation:
-* **🕹️ Start:** Begins the core experience/security game.
+* **🕹️ Start:** Begins the core experience/obstacle game.
 * **⚙️ Settings:** Opens the configuration panel to adjust game parameters and system preferences.
 * **🏆 Top Scores:** Displays a leaderboard of high scores, including a **Map Integration** that shows the physical locations where top scores were recorded.
 
@@ -36,12 +36,39 @@ Adjust the speed of the obstacles to match your skill level:
 * **🔴 Hard:** High-speed obstacles for players seeking a real challenge.
 
 ---
-Main Activity:
-This is where the game is played and includes:
-Grid Objects: Obstacles (Tom), coins (cheese), and life (red cheese).
-Score: Displays the player's current score.
-Movement Buttons: Controls for Jerry's movement.
-Hearts Array: Represents Jerry’s remaining lives.
+### 3️⃣ Main Activity (Gameplay)
+The core gameplay screen where the player controls Jerry to survive, collect items, and achieve high scores.
+
+#### 🎮 Game Interface
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/34a1b240-0af1-4bff-968f-02d6347f9a0d
+" width="250" alt="Main Gameplay">
+</p>
+
+* **Grid Objects:** A dynamic grid featuring **Tom** (Obstacles), **Cheese** (Score Boosts), and **Red Cheese** (Health/Life).
+* **Live Score:** Real-time tracking of cheese collected during the session.
+* **Hearts Array:** A visual life bar representing Jerry’s remaining health.
+* **Movement Buttons:** On-screen controls for quick navigation (when Button mode is active).
+
+#### 🧀 Items & Hazards
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/a9fd0e54-fb1a-4b29-b972-30e5108f4450
+" width="250" alt="Game Items">
+</p>
+
+* **Obstacles (Tom):** Avoid these at all costs! 
+* **Score (Yellow Cheese):** Collect these to increase your total points.
+* **Health (Red Cheese):** Rare items that restore a life to your Hearts Array.
+
+#### 🙀 Collision State
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/8e17320e-d596-41a4-a3ff-e687c8de7311)
+" width="250" alt="Collision Feedback">
+</p>
+
+* **Feedback:** When an obstacle hits Jerry, a **"MEOW"** alert is triggered + cat meow sound, and a life is deducted from the heart array.
+
+---
 
 Game Objective:
 Avoid hitting Tom (obstacles) to prevent losing lives.
