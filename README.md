@@ -17,23 +17,25 @@ The central hub of the application, featuring a clean and intuitive user interfa
 * **🏆 Top Scores:** Displays a leaderboard of high scores, including a **Map Integration** that shows the physical locations where top scores were recorded.
 
 ### 2️⃣ Settings Activity
-The configuration panel allows users to customize their experience by toggling control schemes and adjusting the difficulty level of the security challenge.
+The settings panel allows players to customize their gameplay experience, from how they control Jerry to the overall intensity of the game.
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/621767c0-3681-4212-b42c-0cbab9aa1fe8"
-   width="250" alt="Settings Activity Screenshot">
+
+  <img src="https://github.com/user-attachments/assets/cb7e43c5-e980-4a39-9054-2c56991b5b43" width="250" alt="Settings Activity Screenshot">
 </p>
 
-#### 🎮 Movement Controls
-Users can choose between two distinct input methods for navigating "Jerry":
-* **Buttons (Right Switch):** Manual on-screen controls for precise movement.
-* **Tilt (Left Switch):** Uses the phone's **Gyroscope/Accelerometer** to move based on device orientation.
+#### 🕹️ Movement Controls
+Choose how you navigate Jerry to avoid incoming obstacles:
+* **Buttons (Right Switch):** Classic on-screen button controls for precise movement.
+* **Tilt (Left Switch):** Immersive gameplay using the phone's **sensors**; move Jerry by tilting your device left or right.
 
-#### ⚡ Game Difficulty
-Adjusts the speed of incoming obstacles to test user reaction times:
-* **🟢 Easy:** Slow-moving obstacles (Ideal for testing basic layers).
-* **🟡 Medium:** Moderate speed for a balanced challenge.
-* **🔴 Hard:** High-speed obstacles for maximum difficulty.
+#### 📈 Game Difficulty
+Adjust the speed of the obstacles to match your skill level:
+* **🟢 Easy:** Obstacles move at a slow, predictable speed.
+* **🟡 Medium:** A moderate pace requiring better focus.
+* **🔴 Hard:** High-speed obstacles for players seeking a real challenge.
+
+---
 Main Activity:
 This is where the game is played and includes:
 Grid Objects: Obstacles (Tom), coins (cheese), and life (red cheese).
