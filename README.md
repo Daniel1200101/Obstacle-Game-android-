@@ -69,18 +69,29 @@ width="250" alt="Game Items">
 * **Feedback:** When an obstacle hits Jerry, a **"MEOW"** alert is triggered + cat meow sound, and a life is deducted from the heart array.
 
 ---
+### 4️⃣ Game Over & Score Submission
+When the game ends, players have the opportunity to save their legacy. 
+<p align="left">
+  <img src="1767728047196](https://github.com/user-attachments/assets/3065448f-ff12-47d8-98e6-b9c907c88e68"
+width="250" alt="Score Submission">
+</p>
 
-Game Objective:
-Avoid hitting Tom (obstacles) to prevent losing lives.
-Collect cheese (coins) for extra points.
-Collect redCheese for an extra life.
+* **Data Entry:** If a player achieves a high score, they can enter their details to be recorded.
+* **Smart Validation:** The system automatically checks if the current score qualifies for the **Top 10 Leaderboard**.
+* **Automatic Saving:** All high scores are saved locally/to the database, ensuring your progress is never lost.
+---
+### 5️⃣ Top Scores Activity
+This activity provides a detailed look at the leaderboard using a dual-fragment layout, combining competitive data with geographic tracking.
 
-Score Activity:
-Displays the player’s score at the end of each game session.
+<p align="left">
+  <img src="1767728047241](https://github.com/user-attachments/assets/3c5bc798-83b0-4cca-b9b3-abc3c34c62e7"
+width="250" alt="Top Scores and Map">
+</p>
 
-Top Scores Activity:
-Contains two fragments:
-Player Scores Fragment: Displays the highest scores of the game.
-Map Fragment: Shows the locations of each player’s high score.
-By tapping a player’s score, the map will zoom to the location where they achieved that score.
+#### 🏆 Player Scores Fragment
+* **Hall of Fame:** Displays a list of the highest scores achieved across all game sessions.
+* **Session Details:** Shows the player's name and their final score.
 
+#### 🗺️ Map Fragment
+* **Global Pinning:** Displays the precise location where each high score was achieved.
+* **Interactive Zoom:** A specialized feature where **tapping a player's score** in the list triggers the map to automatically zoom into the specific location of that achievement.
